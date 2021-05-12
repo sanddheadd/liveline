@@ -1,1 +1,1 @@
-http://line.liveott.ru/c
+http://line.liveott.ru
